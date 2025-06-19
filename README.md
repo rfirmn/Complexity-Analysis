@@ -1,4 +1,4 @@
-# 📦 Box Sorting and Number Management Program in C
+# complexity analysis with Box Sorting in C
 
 This program is a simple simulation of generating random numbers, organizing them into boxes, and sorting them using two classic algorithms — Bubble Sort and Quick Sort. It also includes performance timing for sorting operations.
 
